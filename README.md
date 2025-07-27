@@ -10,6 +10,11 @@ Next.js 15 に **shadcn/ui** を導入し、`<Button>` を 1 つ表示するだ�
 ## クイックスタート
 
 ```bash
+# クローンコマンドでソースをもってきます
+git clone https://github.com/delogs-jp/shadcn-install.git
+
+cd shadcn-install
+
 npm install       # 依存を取得
 npm run dev       # http://localhost:3000 で確認
 ```
