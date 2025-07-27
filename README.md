@@ -19,6 +19,8 @@ npm run dev       # http://localhost:3000 で確認
 ```bash
 src/
   app/page.tsx        # トップページ – Button を配置
+  app/layout.tsx      # 共通レイアウト – 日本語フォント対応
+  app/globals.css     # 共通スタイル – 日本語フォント対応
   components/ui/…     # shadcn/ui 生成コンポーネント
 ```
 
